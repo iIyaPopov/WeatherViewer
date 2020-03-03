@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherViewer</string>
+    <string name="btn_find_text">Поиск</string>>
+    <string name="city_hint">Город</string>
+</resources>
